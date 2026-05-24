@@ -1,5 +1,5 @@
 ### ℹ️ About Me (<a href="Resume_2_.pdf" target="_blank">View My CV</a>)
-|🏢 I am a **Bachelor of Computer Science (Undergraduate)** at **Edith Cowan University**.|
+|🏢 I am studying **BSc (Hons) Computer Science** at the **University of Bedfordshire**.|
 | :--- |
 |💬 Ask me about my experience with **Java, Python, JavaScript, TypeScript, PHP, C#, SQL**, or **Bash**.|
 |⚡ I love building dynamic projects using **ReactJS** and exploring **Generative AI**.|
