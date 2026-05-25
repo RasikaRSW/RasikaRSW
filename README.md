@@ -1,7 +1,6 @@
 ### ℹ️ About Me
 |🏢 I am studying **BSc (Hons) Computer Science** at the **University of Bedfordshire**.|
 | :--- |
-|💬 Ask me about my experience with **Java, Python, JavaScript, TypeScript, PHP, C#, SQL**, or **Bash**.|
 |⚡ I love building dynamic projects using **ReactJS** and exploring **Generative AI**.|
 |👨‍💻 Check out my GitHub at **github.com/RasikaRSW** or connect on LinkedIn at **linkedin.com/in/rasikarsw**.|
 
@@ -12,7 +11,7 @@
 ### 🎯 &nbsp;My Skills
 | 💻 Languages & Frameworks |
 | :--- |
-| <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,cs,mysql,bash,react,bootstrap,wordpress" />|
+| <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,php,cs,mysql,bash,react,bootstrap,wordpress,java" />|
 | 🛠️ Tools & Design |
 | <img src="https://skillicons.dev/icons?i=git,github,figma,ps,pr,ae" />|
 
