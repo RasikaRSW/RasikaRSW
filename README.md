@@ -9,11 +9,9 @@
 <br>
 
 ### 🎯 &nbsp;My Skills
-| 💻 Languages & Frameworks |
+| 💻 Languages & Tools  |
 | :--- |
-| <img src="https://skillicons.dev/icons?i=js,ts,next,nodejs,python,php,cs,mysql,bash,react,bootstrap,wordpress,java" />|
-| 🛠️ Tools, Design & Other |
-| <img src="https://skillicons.dev/icons?i=obsidian,jest,git,github,mongodb,npm,md,latex,figma,ps,pr,ae" />|
+| <img src="https://skillicons.dev/icons?i=js,ts,next,nodejs,python,php,cs,mysql,bash,react,bootstrap,wordpress,java,obsidian,jest,git,github,mongodb,npm,md,latex,figma,ps,pr,ae" />|
 
 <br>
 
